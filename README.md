@@ -3,7 +3,7 @@
 Programma da console in C++ con database SQLite. Permette di registrare le
 spese, dividerle in categorie e confrontarle con un budget mensile.
 
-Repository GitHub: **[INSERIRE IL LINK COMPLETO]**
+Repository GitHub: **https://github.com/francescotroiani9/PersonalExpenseSystem**
 
 ## File del progetto
 
